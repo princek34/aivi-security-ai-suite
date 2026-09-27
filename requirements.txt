@@ -1,0 +1,7 @@
+# Lightweight Core Dependencies for AIVI Campus OS & Hack My Website
+pydantic>=2.7.0
+google-generativeai>=0.8.0
+fastapi>=0.110.0
+uvicorn>=0.25.0
+requests>=2.31.0
+pytest>=8.0.0
